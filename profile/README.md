@@ -1,7 +1,7 @@
 # TS Digital Studio
 
 <br>
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./img/Banner para github .png" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="../img/Banner para github .png" alt="" /></div>
 <br>
 
 Bem-vindo à organização **TS Digital Studio**! Somos uma equipe apaixonada por tecnologia, com foco no desenvolvimento de soluções digitais inovadoras e de alta qualidade. Nossa missão é criar produtos que simplifiquem processos, gerem valor e impulsionem o sucesso de negócios através de tecnologia de ponta.
