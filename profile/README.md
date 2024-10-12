@@ -4,7 +4,7 @@
 
 Bem-vindo à organização **TS Digital Studio**! Somos uma equipe apaixonada por tecnologia, com foco no desenvolvimento de soluções digitais inovadoras e de alta qualidade. Nossa missão é criar produtos que simplifiquem processos, gerem valor e impulsionem o sucesso de negócios através de tecnologia de ponta.
 
-## Tecnologias que utilizamos
+# Tecnologias que utilizamos
 
 Nossa stack tecnológica é moderna e diversificada, permitindo que possamos entregar soluções completas para diversas plataformas. Aqui estão algumas das principais tecnologias que utilizamos em nossos projetos:
 <br>
@@ -62,18 +62,18 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
 <br>
 
 
-## Nossos Valores
+# Nossos Valores
 
 - **Inovação**: Estamos sempre explorando novas tecnologias e abordagens para criar soluções melhores e mais eficientes.
 - **Qualidade**: Nosso foco é entregar produtos que sejam robustos, eficientes e de fácil manutenção.
 - **Colaboração**: Acreditamos no poder da comunidade e da troca de conhecimentos para crescer juntos.
 - **Simplicidade**: Buscamos simplificar processos e criar soluções intuitivas e fáceis de usar.
 
-## Como Contribuir
+# Como Contribuir
 
 Contribuições são sempre bem-vindas! Se você deseja colaborar conosco, sinta-se à vontade para explorar nossos repositórios, abrir **issues** ou enviar **pull requests**. Certifique-se de seguir as diretrizes de contribuição para garantir que suas mudanças sejam consideradas.
 
-### Passos para contribuir:
+## Passos para contribuir:
 
 1. **Fork** o repositório
 2. Crie sua **branch** (`git checkout -b feature/nova-funcionalidade`)
@@ -81,7 +81,7 @@ Contribuições são sempre bem-vindas! Se você deseja colaborar conosco, sinta
 4. **Push** para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um **Pull Request**
 
-## Contato
+# Contato
 
 Se tiver alguma dúvida ou quiser saber mais sobre nossos projetos e serviços, entre em contato conosco:
 
