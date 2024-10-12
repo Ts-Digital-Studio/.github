@@ -1,4 +1,4 @@
-<div align="center" ><h1><strong>Ts Digital Studio</strong></h1><div>
+<div align="center" ><h1><strong>Ts Digital Studio</strong></h1></div>
 
 <br>
 <div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="../img/Banner para github .png" alt="" /></div>
