@@ -1,5 +1,3 @@
-# TS Digital Studio
-
 <br>
 <div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="../img/Banner para github .png" alt="" /></div>
 <br>
