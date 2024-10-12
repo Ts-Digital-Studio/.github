@@ -23,8 +23,7 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <!-- <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="java logo"  />
-  <img width="8" /> -->
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
