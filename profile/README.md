@@ -35,6 +35,7 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="firebase logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
