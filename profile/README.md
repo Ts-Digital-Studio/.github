@@ -20,11 +20,11 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="42" alt="dart logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="42" alt="react logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
   <img width="8" />
@@ -34,6 +34,8 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
 <p><strong>Back-end: </strong></p>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="firebase logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
