@@ -34,7 +34,7 @@ Nossa stack tecnológica é moderna e diversificada, permitindo que possamos ent
 <p><strong>Back-end: </strong></p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="42" alt="typescript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="firebase logo"  />
   <img width="8" />
